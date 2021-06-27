@@ -1,15 +1,11 @@
 # GBA Project
-This is a group project as part of a Microprocessor Applications module with the aim to apply
-
-The project requirements where to:
-  - Must use a combination of ARM Assembly and C
-  - Contain menu and end game screen
-  - Use sprites
+This is a group project as part of a Microprocessor Applications module with the following requirements:
+  - Use a combination of ARM Assembly and C languages
+  - Contain menu and end game screens
   - Use processor interrupts and timers
-  - Contain multiple levels
-
+  - Contain multiple different levels and sprites
  
-The game file `corona_killer.gba`, can be simply loaded and run in any Game Boy Advance emulator.
+The game file `corona_killer.gba`, can simply be loaded and run in any Game Boy Advance emulator.
 
 **Game Controls:**
 |    Control Input   |           Action          |
