@@ -1,5 +1,5 @@
-# GBA Project
-This is a group project as part of a Microprocessor Applications module with the following requirements:
+# GBA Project (12/2019)
+This is a group project as part of a Microprocessor Applications module to create a Game Boy Advance game with the following requirements:
   - Use a combination of ARM Assembly and C languages
   - Contain menu and end game screens
   - Use processor interrupts and timers
